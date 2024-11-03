@@ -1,0 +1,286 @@
+body
+{
+    background-color: rgba(30, 27, 23, 0.936);
+}
+
+h1
+{
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-bottom-width: 0.5px;
+    border-bottom-style: solid ;
+    position: absolute;
+    
+    
+}
+
+h2
+{
+    padding-top: 100px;
+    padding-left:0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-bottom-width: 0.5px;
+    border-bottom-style: solid ;
+    position: absolute;
+    
+}
+.megyek
+{
+    color: white;
+    padding-top:165px;
+    margin-left: 40px;
+    
+    
+}
+
+.megyegombok
+{
+    background-color: black; 
+    
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+
+    width: 250px;
+    
+
+    border: 2px solid #04AA6D;
+    margin-bottom: 5px;
+       
+}
+
+.megyegombok:hover
+{
+        background-color: #04AA6D;
+        color: white;    
+}
+
+
+.vissza
+{
+    padding: 10px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    border-color: aliceblue;
+    border: 1px;
+}
+
+
+.varosokthead
+{
+    
+    padding-top: 100px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.modositasgomb
+{
+    background-color: black; 
+    
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+    border: 2px solid rgb(0, 0, 144);
+    margin-bottom: 5px;
+       
+}
+
+.modositasgomb:hover
+{
+        background-color: rgb(0, 0, 109);
+        color: white;    
+}
+
+.torlesgomb
+{
+    background-color: black; 
+    
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+    border: 2px solid rgb(205, 0, 0);
+    margin-bottom: 5px;
+       
+}
+
+.torlesgomb:hover
+{
+        background-color: rgb(109, 0, 0);
+        color: white;    
+}
+
+
+.btn-save-new
+{
+    background-color: black; 
+    
+    color: white;
+    padding: 14px 22px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+    border: 3px dotted rgb(0, 206, 0);
+    margin-bottom: 5px;
+
+}
+
+.btn-save-new:hover
+{
+        background-color: rgb(0, 206, 0);
+        color: white;
+        font-size: 17px;
+        
+}
+
+.btn-search-for
+{
+    background-color: black; 
+    
+    color: white;
+    padding: 14px 22px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+    border: 3px dotted rgb(255, 89, 0);
+    margin-bottom: 5px;
+}
+
+.btn-search-for:hover
+{
+        background-color: rgb(255, 89, 0);
+        color: white;
+        font-size: 17px;
+        
+}
+
+.varosok
+{
+
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-bottom-width: 0.5px;
+    border-bottom-style: solid ;
+    position: absolute;
+    padding-top: 110px;
+    
+
+}
+
+.szek_lakos
+{
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: 2px;
+    border-color: #04AA6D;
+    border-style: solid ;
+    padding: 35px;
+    text-align: center;
+}
+
+.megyevonal
+{
+    border: 1px solid rgb(158, 0, 0);
+}
+
+.megyekHeader
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom-width: 0.5px;
+    border-bottom-style: solid ;
+}
+
+
+
+.modositasPage
+{
+    background-color: rgba(30, 27, 23, 0.936);
+}
+
+.btn-save
+{
+    background-color: black; 
+    
+    color: white;
+    padding: 14px 22px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+    border: 3px solid rgb(20, 170, 0);
+    margin-bottom: 5px;
+}
+
+.btn-save:hover
+{
+    background-color: rgb(20, 170, 0);
+        color: white;
+}
+
+
+.btn-cancel
+{
+    background-color: black; 
+    
+    color: white;
+    padding: 14px 22px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    
+    border: 3px solid rgb(196, 0, 0);
+    margin-bottom: 5px;
+}
+
+.btn-cancel:hover
+{
+    background-color: rgb(196, 0, 0);
+        color: white;    
+}
